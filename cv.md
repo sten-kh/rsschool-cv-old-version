@@ -57,6 +57,6 @@ multiply = function (a, b) {
 ---
 ### Languages
 ---
-* Russian-Native
-* Ukrainian-Native
-* English-A2 (B1 in process)
+* Russian: Native
+* Ukrainian: Native
+* English: A2 (B1 in process)
