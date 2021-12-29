@@ -40,9 +40,9 @@ multiply = function (a, b) {
 ---
 ### Work Experience
 ---
-1. *Seafood Processor* Silver Bay Seafoods LLC, AK, USA
-2. *Process Engineer* LLC SPE "TRANSPORT TECHNOLOGIES", Kharkiv, Ukraine
-3. *Student RS-School* on-line education
+1. ***Seafood Processor***, Silver Bay Seafoods LLC, AK, USA
+2. ***Process Engineer***, LLC SPE "TRANSPORT TECHNOLOGIES", Kharkiv, Ukraine
+3. ***Student***, RS-School, on-line education
 
 ---
 ### Education
@@ -53,3 +53,10 @@ multiply = function (a, b) {
     + Industrial and biomedical electronics ***Specialist degree***
 * Courses:
     + RS-School (JS/FE Pre-School in process)
+
+---
+### Languages
+---
+* Russian-Native
+* Ukrainian-Native
+* English-A2 (B1 in process)
