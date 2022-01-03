@@ -1,4 +1,5 @@
-body{height: 1500px;
+body{
+    height: 1500px;
     background-color: #fff;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -80,7 +81,7 @@ body{height: 1500px;
     width: 20px;
     height: 20px;
     z-index: 4;
-    background-image: url(/img/location.png);
+    background-image: url(../img/location.png);
     background-size: cover;
 }
 .location-place{
@@ -99,7 +100,7 @@ body{height: 1500px;
     right: 0px;
     z-index: 3;
     box-shadow: inset 0px 0px 10px 10px #DBA632;
-    background-image: url(/img/my-photo.jpg);
+    background-image: url(../img/my-photo.jpg);
     background-size: cover;
 }
 .line-of-skills{
@@ -221,7 +222,7 @@ body{height: 1500px;
     left: 10px;
     width: 20px;  
     height: 20px; 
-    background-image: url(/img/phone.png);
+    background-image: url(../img/phone.png);
     background-size: cover;
 }
 .email-icon{
@@ -230,7 +231,7 @@ body{height: 1500px;
     left: 220px;
     width: 20px;  
     height: 20px; 
-    background-image: url(/img/mail.png);
+    background-image: url(../img/mail.png);
     background-size: cover;
 }
 .linkedin-icon{
@@ -239,7 +240,7 @@ body{height: 1500px;
     left: 520px;
     width: 20px;  
     height: 20px; 
-    background-image: url(/img/linkedin.jpg);
+    background-image: url(../img/linkedin.jpg);
     background-size: cover;
 }
 .education{
